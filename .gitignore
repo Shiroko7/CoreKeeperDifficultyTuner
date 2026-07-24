@@ -1,0 +1,17 @@
+# Unity / MSBuild leftovers, in case this folder is opened in place rather
+# than copied into the SDK project.
+Library/
+Temp/
+Obj/
+obj/
+bin/
+Build/
+Logs/
+UserSettings/
+*.csproj
+*.sln
+*.csproj.user
+*.userprefs
+.vs/
+.idea/
+.DS_Store
